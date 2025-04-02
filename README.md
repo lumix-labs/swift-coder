@@ -117,7 +117,8 @@ If you experience issues:
 
 If you have questions or run into issues while setting up Swift-Coder, please:
 
-- Open an [issue on GitHub](https://github.com/your-username/swift-coder/issues)
-- Contact me on Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Open an [issue on GitHub](https://github.com/lumix-labs/swift-coder/issues)
+- Contact me on Twitter: [@ashwani_48](https://twitter.com/ashwani_48)
+- Contact me on LinkedIn: [@karoriwal](https://www.linkedin.com/in/karoriwal/)
 
 Happy coding!
