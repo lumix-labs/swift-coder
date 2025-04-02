@@ -43,6 +43,7 @@ Swift-Coder provides a lightweight, customizable environment that connects Claud
 
    ```json
    {
+    "mcpServers": {
      "swift-coder": {
        "command": "docker",
        "args": [
@@ -58,6 +59,7 @@ Swift-Coder provides a lightweight, customizable environment that connects Claud
          "swift-coder"
        ]
      }
+    }
    }
    ```
 
